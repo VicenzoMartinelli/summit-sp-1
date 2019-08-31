@@ -46,7 +46,7 @@ namespace SummitApi.Controllers
       {
         UserName    = registerUser.UserName,
         Email       = registerUser.Email,
-        ApelidoFofo = registerUser.ApelidoFofo
+        QualquerCoisa = registerUser.QualquerCoisa
       };
 
       var result = await _userManager.CreateAsync(user, registerUser.Password);

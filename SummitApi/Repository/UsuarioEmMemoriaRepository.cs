@@ -11,13 +11,13 @@ namespace SummitApi.Repository
         {
             users = new List<Usuario>(){
                 new Usuario(){
-                    ApelidoFofo = "1"
+                    QualquerCoisa = "1"
                 },
                 new Usuario(){
-                    ApelidoFofo = "2"
+                    QualquerCoisa = "2"
                 },
                 new Usuario(){
-                    ApelidoFofo = "3"
+                    QualquerCoisa = "3"
                 },
             };
         }

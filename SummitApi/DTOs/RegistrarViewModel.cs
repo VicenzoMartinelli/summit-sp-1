@@ -6,6 +6,6 @@
     public string Email { get; set; }
 
     public string Password { get; set; }
-    public string ApelidoFofo { get; set; }
+    public string QualquerCoisa { get; set; }
   }
 }
